@@ -1,1 +1,1 @@
-# High-way-net
+# Highway net using pytorch implement
